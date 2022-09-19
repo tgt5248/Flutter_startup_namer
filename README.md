@@ -1,9 +1,16 @@
-# Flutter_startup_namer
-[Tutorial] https://docs.flutter.dev/get-started/codelab
+# startup_namer
 
-# Part 1
-* 리스트뷰에 english_words 출력
-<div>
-<img width="250" alt="image" src="https://user-images.githubusercontent.com/63574571/190966823-0a6161c2-12dc-4738-9fea-139d4285d886.png">
-<img width="250" alt="image" src="https://user-images.githubusercontent.com/63574571/190967412-f68593c5-c21e-4a96-a4ee-6ede48ffe631.gif">
-</div>
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
